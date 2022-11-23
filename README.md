@@ -14,3 +14,5 @@ The project has been updated to include buttons, so the player can play 5 rounds
 Update:
 1. Utilizing DOM methods.
 2. Modifying HTML elements with JavaScript.
+3. Creating new branches in Git.
+4. Merging branches in Git.
